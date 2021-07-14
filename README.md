@@ -10,5 +10,5 @@ I'm interested in open source software, technical writing, storytelling and expl
 # Get in touch!
 
 - Email me at niko.achilles.kokkinos@gmail.com
-- You can read my personal blog, updated infrequently  
+- You can read my [personal blog](https://nikolaoskokkinos.wordpress.com/), updated infrequently  
   I'm currently creating a new personal blog.
