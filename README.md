@@ -9,7 +9,8 @@ Exposing myself to good architecture design and decision trade offs.
 
 I'm interested in cloud, open source software, technical storytelling and exploring the world.  
 
-On my free time I like having experience with observability concepts by [@example](https://github.com/niko-achilles/otlp-logzio-fullstack) and contributing to [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js) project.
+On my free time I like having experience with observability concepts by [@example](https://github.com/niko-achilles/otlp-logzio-fullstack)  
+and contributing to [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js) project.
 
 ### Want to know more about me ?
 
