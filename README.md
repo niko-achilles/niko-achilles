@@ -7,7 +7,7 @@ I'm a passionate engineer, who creates with ♥ and apply my skills in
 Software Engineering.  
 Exposing myself to good architecture design and decision trade offs.
 
-I'm interested in cloud, open source software, technical storytelling and exploring the world.  
+I'm interested in cloud, open source software and storytelling.  
 
 On my free time I enjoy having experience with observability concepts by contributing to [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js) cncf project.
 
