@@ -1,18 +1,18 @@
 ## About Me
 
-Hi there !
-My name is Niko Achilles.
+Hi there ! My name is Niko Achilles.
 
-I'm a passionate engineer, who creates with ♥ and apply my skills in
-Software Engineering.  
+I'm a passionate engineer, who creates with love and apply my skills in Software Engineering.
 Exposing myself to good architecture design and decision trade offs.
 
-I'm interested in culture and utilities like cloud, 
-open source software and storytelling.  
+- Domain Driven Design Expert.
+- AWS Certified Cloud Practitioner.
 
-On my free time I am 
-- contributing to [@opentelemetry cncf project](https://github.com/open-telemetry/opentelemetry-js)
-- reading books (history, philosophy, mythology)
+On my free time I like contributing to [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
+
+Want to know more about me ?
+
+Drop me a message to get my @portfolio and skills presentation
 
 ### Want to know more about me ?
 
