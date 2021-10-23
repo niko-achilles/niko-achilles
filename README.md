@@ -2,7 +2,7 @@
 
 Hi there ! My name is Niko Achilles.
 
-I'm a passionate engineer, who creates with love and apply my skills in Software Engineering.
+I'm a passionate engineer, who creates with love and apply my skills in Software Engineering.  
 Exposing myself to good architecture design and decision trade offs.
 
 - Domain Driven Design Expert.
