@@ -11,10 +11,6 @@ Exposing myself to good architecture design and decision trade offs.
 
 On my free time I like to code in javascript and contribute to [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
 
-Want to know more about me ?
-
-Drop me a message to get my @portfolio and skills presentation
-
 ### Want to know more about me ?
 
 - [@LinkedIn](https://www.linkedin.com/in/niko-achilles-kokkinos/)
