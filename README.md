@@ -5,11 +5,13 @@ Hi there ! My name is Niko Achilles.
 I'm a passionate engineer, who creates with love and apply my skills in Software Engineering.  
 Exposing myself to good architecture design and decision trade offs.
 
-- 5+ professional experience in Software Architecture, Strategy and modernization (learned Domain Driven Design by Eric Evans).
-- AWS Certified Cloud Practitioner.
-- AWS Certified Solutions Architect Associate.
+AWS x 2 Certified 🏅 
+Domain Driven Design professional (learned by Eric Evansd himself)
 
-On my free time I like to code in javascript and contribute to [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
+Coding in Javascript and Python. 
+Data-ing in Postgres.
+
+On my free time I contribute to [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
 
 ### Want to know more about me ?
 
