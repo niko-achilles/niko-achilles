@@ -8,8 +8,8 @@ Exposing myself to good architecture design and decision trade offs.
 AWS x 2 Certified 🏅  
 Domain Driven Design professional (learned by Eric Evans himself)
 
-Coding in Javascript and Python. 
-Data-ing in Postgres.
+Coding in Javascript and Python.  
+Data-ing in Postgres and Dynamodb.
 
 On my free time I contribute to [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
 
