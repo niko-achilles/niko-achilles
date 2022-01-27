@@ -6,7 +6,7 @@ I'm a passionate engineer, who creates with love and apply my skills in Software
 Exposing myself to good architecture design and decision trade offs.
 
 AWS x 2 Certified 🏅 
-Domain Driven Design professional (learned by Eric Evansd himself)
+Domain Driven Design professional (learned by Eric Evans himself)
 
 Coding in Javascript and Python. 
 Data-ing in Postgres.
