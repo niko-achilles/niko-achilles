@@ -5,7 +5,7 @@ Hi there ! My name is Niko Achilles.
 I'm a passionate engineer, who creates with love and apply my skills in Software Engineering.  
 Exposing myself to good architecture design and decision trade offs.
 
-AWS x 2 Certified 🏅 (high scores: above 930 / 1000 points) 
+AWS x 2 Certified 🏅 (high scores: above 930 / 1000 points)  
 Domain Driven Design professional (learned by Eric Evans himself)
 
 Coding in Typescript, Javascript and Python.  
