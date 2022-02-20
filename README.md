@@ -11,8 +11,7 @@ Domain Driven Design professional (learned by Eric Evans himself)
 Coding in Typescript, Javascript and Python.  
 Data-ing in Postgres and Dynamodb.
 
-On my free time I contribute to open-source projects:  
-- [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js)
+On my free time I contribute to open-source project: [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js)
 
 ### Want to know more about me ?
 
