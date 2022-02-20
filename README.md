@@ -12,7 +12,7 @@ Coding in Typescript, Javascript and Python.
 Data-ing in Postgres and Dynamodb.
 
 On my free time I contribute to open-source projects:  
-- [@opentelemetry project](https://github.com/open-telemetry/opentelemetry-js)
+- [@opentelemetry](https://github.com/open-telemetry/opentelemetry-js)
 
 ### Want to know more about me ?
 
